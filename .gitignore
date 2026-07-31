@@ -1,0 +1,18 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos compilados por PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Archivos de log
+*.log
